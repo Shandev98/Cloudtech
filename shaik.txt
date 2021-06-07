@@ -1,1 +1,4 @@
-this file is from devlop
+<<<<<<< HEAD
+=======
+this file is from master
+>>>>>>> master

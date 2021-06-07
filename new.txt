@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is first line from devlop branch
+=======
+this is new file from master
+>>>>>>> master
